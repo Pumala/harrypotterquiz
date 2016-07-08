@@ -50,7 +50,6 @@ button:hover {
 
 label {
     font-size: 1.25em;
-    display: inline-block;
     padding: 1%;
 }
 
@@ -59,4 +58,3 @@ label {
         width: 94%;
     }
 }
-
